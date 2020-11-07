@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'EZBundleHelp_Example' do
+  pod 'EZBundleHelp', :path => '../'
+
+  target 'EZBundleHelp_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
