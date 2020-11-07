@@ -1,0 +1,16 @@
+PODS:
+  - EZBundleHelp (0.1.0)
+
+DEPENDENCIES:
+  - EZBundleHelp (from `../`)
+
+EXTERNAL SOURCES:
+  EZBundleHelp:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EZBundleHelp: b702b66f800566cba71016128652a5afc63c3e46
+
+PODFILE CHECKSUM: cca9e22d9d2c26b1ab403ed0932f7be7f9f7340e
+
+COCOAPODS: 1.9.3

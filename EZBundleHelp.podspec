@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'EZBundleHelp'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of EZBundleHelp.'
+  s.summary          = '获取动态库、私有库中的bundle(包括图片、xib)，用于组件库中 .'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
